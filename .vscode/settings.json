@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5feec01f-7d6a-4093-a8c1-cb17562af422/resourceGroups/tp1-azure-group/providers/Microsoft.Web/sites/app-web-mejda",
+    "appService.deploySubpath": "."
+}
